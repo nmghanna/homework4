@@ -55,7 +55,7 @@ nav a:hover{
 
 /*Your Code Here*/
 /*Write selector/rule property to position the skip class element*/
-skip a:focus{
+.skip a:focus{
   top: 0px;
 }
 /*Your Code Here*/
